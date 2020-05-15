@@ -1,0 +1,36 @@
+.input{
+	padding: 19px 21px;
+	width: 100%;
+	border: none;
+	margin-top: 30px;
+	background-color: #ffffff90;
+}
+
+.project{
+	text-align: center;
+	background-image: url("../../img/bg.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.project__title{
+	padding-top: 100px;
+}
+
+.project__subtitle{
+	margin-top: 35px;
+}
+.form-project__row{
+	display: flex;
+	justify-content: space-between;
+}
+
+.form-project__column{
+	flex: 0 0 48%;
+}
+
+.form-project{
+	padding-bottom: 100px;
+}

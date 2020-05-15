@@ -1,0 +1,40 @@
+.work-process{
+	background-image: url("../../img/bg.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.work-process__container{
+	padding: 100px 0;
+}
+
+.work-process__subtitle{
+	width: 50%;
+	margin: 40px auto 0;
+	padding-bottom: 58px;
+}
+
+.work-process__video{
+	background-color: #e9e9e9;
+	width: 100%;
+	height: 572px;
+}
+
+.circle{
+	margin: auto;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: #10c9c3;
+}
+
+.triangle{
+	/*transform: rotateX(90deg);*/
+	color: #ffffff;
+	font-size: 50px;
+	margin: auto auto;
+
+}

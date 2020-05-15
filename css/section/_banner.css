@@ -1,0 +1,30 @@
+.banner {
+	height: 100vh;
+	min-height: 600px;
+	background-image: url("../../img/bg.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 229px;
+}
+
+.banner__container {
+	width: 100%;
+}
+
+
+.banner__title {
+	font-size: 36px;
+}
+
+.banner__description {
+	margin-top: 24px;
+	width: 40%;
+	line-height: 2;
+}
+
+.banner__btn {
+	margin-top: 25px;
+	padding: 20px 50px;
+}

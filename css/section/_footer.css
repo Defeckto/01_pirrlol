@@ -1,0 +1,35 @@
+.footer {
+	background-color: var(--mercury-color);
+	color: var(--black-color);
+}
+
+.footer__container {
+	align-items: center;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.footer__row {
+	width: 33.333%;
+}
+
+.footer__social {
+	padding: 20px 0;
+}
+
+.footer__item {
+	padding-top: 10px;
+}
+
+.footer__item a:hover {
+	color: var(--accent-color);
+}
+
+.footer__bottom {
+	color: var(--white-color);
+	background-color: var(--dark-color);
+	text-align: center;
+	padding: 20px;
+	font-size: 12px;
+}
+

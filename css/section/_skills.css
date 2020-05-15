@@ -1,0 +1,39 @@
+.skills{
+	background-image: url("../../img/bg.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 180px;
+}
+
+.skills__container{
+	padding: 165px 50px 50px;
+	background-color: #f8f9f980;
+	width: 50%;
+}
+
+.skills__name{
+	margin-top: 41px;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+
+.skills__line{
+	margin: 20px 0 0;
+	height: 3px;
+	border: none;
+	background-color: var(--accent-color);
+}
+
+.skills__line-1{
+	width: 75%;
+}
+
+.skills__line-2{
+	width: 90%;
+}
+
+.skills__line-3{
+	width: 65%;
+}

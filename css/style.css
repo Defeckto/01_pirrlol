@@ -1,0 +1,20 @@
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_variables.css";
+@import "_vendor.css";
+@import "_global.css";
+@import "_overall.css";
+
+/* components imports */
+@import "section/_header.css";
+@import "section/_banner.css";
+@import "section/_about.css";
+@import "section/_skills.css";
+@import "section/_numbers.css";
+@import "section/_work.css";
+@import "section/_work-process.css";
+@import "section/_services.css";
+@import "section/_testimonials.css";
+@import "section/_clients.css";
+@import "section/_project.css";
+@import "section/_footer.css";

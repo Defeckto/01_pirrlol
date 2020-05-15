@@ -1,0 +1,21 @@
+.testimonials{
+	background-color: var(--accent-color);
+	text-align: center;
+	color: var(--white-color);
+}
+
+.testimonials__content{
+	padding-top: 175px;
+	width: 70%;
+	margin: 0 auto;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.testimonials__author{
+	padding-top: 35px;
+}
+
+.testimonials__d{
+	padding: 110px 0 60px;
+}

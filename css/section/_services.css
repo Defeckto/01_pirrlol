@@ -1,0 +1,33 @@
+.services {
+	text-align: center;
+	background-color: var(--mercury-color);
+	padding-bottom: 100px;
+}
+
+.services__row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.services__item{
+	width: 20%;
+}
+
+.services__item i {
+	font-size: 48px;
+	padding-top: 100px;
+}
+
+.services__title {
+	font-size: 16px;
+	font-weight: 700;
+	padding-top: 27px;
+	text-transform: uppercase;
+}
+
+.services__content {
+	font-family: 'Nunito', sans-serif;
+	font-size: 14px;
+	padding-top: 20px;
+	color: var(--dark-color);
+}

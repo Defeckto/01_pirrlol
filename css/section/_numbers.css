@@ -1,0 +1,32 @@
+.numbers {
+	color: var(--white-color);
+	background-color: var(--accent-color);
+	padding-bottom: 115px;
+}
+
+.numbers_container{
+	justify-content: space-between;
+}
+
+.numbers__item {
+	padding-top: 100px;
+
+}
+
+.numbers__item i {
+	font-size: 48px;
+}
+
+.numbers__content{
+	margin-left: 29px;
+}
+
+.numbers__title {
+	font-size: 18px;
+}
+
+.numbers__subtitle {
+	text-transform: uppercase;
+	margin-top: 9px;
+	font-size: 12px;
+}

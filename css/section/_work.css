@@ -1,0 +1,22 @@
+.work__row {
+	display: flex;
+	justify-content: space-between;
+	flex: 0 0 25;
+}
+
+.work__img {
+	height: 300px;
+	width: 25%;
+	margin: auto;
+	display: none;
+}
+
+.work__img:hover {
+	background-color: #00000050;
+
+}
+
+.work__btn{
+	width: 100%;
+	padding: 20px;
+}
