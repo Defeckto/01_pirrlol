@@ -1,0 +1,66 @@
+[
+	{
+		"workId": 1,
+		"title": "1th work",
+		"subtitle": "The antsy bingers of Netflix will eagerly anticipate the digital release of the Survive soundtrack, out today.",
+		"bgi": "01.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 2,
+		"title": "2th Work",
+		"subtitle": "lorem asdasdasda",
+		"bgi": "02.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 3,
+		"title": "3th work",
+		"subtitle": "The antsy bingers of Netflix will eagerly anticipate the digital release of the Survive soundtrack, out today.",
+		"bgi": "03.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 4,
+		"title": "4th work",
+		"subtitle": "lorem asdasdasda",
+		"bgi": "04.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 5,
+		"title": "5th work",
+		"subtitle": "The antsy bingers of Netflix will eagerly anticipate the digital release of the Survive soundtrack, out today.",
+		"bgi": "05.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 6,
+		"title": "6th work",
+		"subtitle": "lorem asdasdasda",
+		"bgi": "06.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 7,
+		"title": "7th work",
+		"subtitle": "The antsy bingers of Netflix will eagerly anticipate the digital release of the Survive soundtrack, out today.",
+		"bgi": "07.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	},
+	{
+		"workId": 8,
+		"title": "8th work",
+		"subtitle": "lorem asdasdasda",
+		"bgi": "08.jpg",
+		"link": "./pages/single-work.html",
+		"btnName": "Read more"
+	}
+]

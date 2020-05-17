@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta content="text/html; charset=utf-8" http-equiv="content-type">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<title>Piroll</title>
 	<link href="css/style.css" rel="stylesheet">
@@ -101,17 +101,7 @@
 			</div>
 		</section>
 		<section class="work" id="work">
-			<div class="work__row">
-				<img alt="" class="work__img" src="./img/work/01.jpg">
-				<img alt="" class="work__img" src="./img/work/02.jpg">
-				<img alt="" class="work__img" src="./img/work/03.jpg">
-				<img alt="" class="work__img" src="./img/work/04.jpg">
-			</div>
-			<div class="work__row">
-				<img alt="" class="work__img" src="./img/work/05.jpg">
-				<img alt="" class="work__img" src="./img/work/06.jpg">
-				<img alt="" class="work__img" src="./img/work/07.jpg">
-				<img alt="" class="work__img" src="./img/work/08.jpg">
+			<div class="work__row" id="workRow" onmousedown="return false" onselectstart="return false" >
 			</div>
 			<button class="btn work__btn" id="loadMore">load more work</button>
 		</section>
@@ -199,6 +189,12 @@
 						<a class="next" href="#">&#xf054;</a>
 					</div>
 					<div class="slides">
+						<div class="slide">
+							<div class="testimonials__content">“ There are no hopeless situations. There are situations out of which
+								you are not satisfied. ”
+							</div>
+							<div class="testimonials__author">Nara Shikamaru</div>
+						</div>
 						<div class="slide active">
 							<div class="testimonials__content">“ We are all geniuses. But if you judge a fish by its ability to climb
 								a
@@ -206,12 +202,6 @@
 								life, considering itself a fool. ”
 							</div>
 							<div class="testimonials__author">Albert Einstein</div>
-						</div>
-						<div class="slide">
-							<div class="testimonials__content">“ There are no hopeless situations. There are situations out of which
-								you are not satisfied. ”
-							</div>
-							<div class="testimonials__author">Nara Shikamaru</div>
 						</div>
 						<div class="slide">
 							<div class="testimonials__content">“ The meaning of life is not to wait for the storm to end, but to learn
@@ -319,5 +309,6 @@
 <script src="js/smooth-scrolling.js"></script>
 <script src="js/load-more.js"></script>
 <script src="js/text-slider.js"></script>
+<script src="js/work-card-script.js"></script>
 </body>
 </html>
