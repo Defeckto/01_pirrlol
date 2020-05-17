@@ -16,7 +16,11 @@
 
 }
 
-.work__btn{
+.work__btn {
 	width: 100%;
 	padding: 20px;
+}
+
+.noContent {
+	display: none;
 }
