@@ -1,11 +1,6 @@
 .banner {
 	height: 100vh;
 	min-height: 600px;
-	background-image: url("../../img/bg.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
 	padding-top: 229px;
 }
 

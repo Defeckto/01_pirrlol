@@ -39,3 +39,11 @@
 .description {
 	font-weight: 500;
 }
+
+.bg-image{
+	background-image: url("../img/bg.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}

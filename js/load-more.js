@@ -1,13 +1,12 @@
 $(document).ready(function () {
-	let x = $(".work__item").length;
+	let item = $(".work__item").length;
 
 	$(".work__item").slice(0, 4).show();
-
+	$(".work__item:hidden").slice(0, 4).slideDown();
 	$("#loadMore").on("click", function (e) {
 		e.preventDefault();
 		$(".work__item:hidden").slice(0, 4).slideDown();
-		console.log(x)
-		if (x !== $(".work__item").length ) {
+		if (item !== $(".work__item").length ) {
 			$("#loadMore").text('Load more work');
 		}
 
